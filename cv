@@ -1,0 +1,49 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="header">
+<p id="name"><b>Irem Khan</p></b>
+         <a href="mailto:iremkhan07@gmail.com" target="_blank"><p id="email">iremkhan07@gmail.com</p></a>
+     </div>
+     <div class="left">
+     </div><br>
+     <div class="right">
+            <h3>Personal Profile</h3>
+            <section id="frank"><p>
+           A highly motivated and enthusiastic individual with managerial and team building experience from various customer and client-focused organizations. With my natural sales ability and focus on organizational efficiency coupled with my Multi Language skills I am able to quickly build rapport with customers and employees.  
+           A confident Individual with the ability to grasp new concepts and overcome new challenges.
+            </p></section>
+            <h3>Professional Experience</h3>
+            <h4 id="company-name">Oh My Social!</h4>
+            <p id="job-title"><strong>Social Media Manager</strong></p>
+            <p id="job-responsibilities">Job Responsbilities</p>
+            <p>
+            <ul>
+                <li>Overseeing the company's interactions by implementing content strategies.</li>
+                <li>Creating content based on brand guidelines</li>
+                <li>Overseeing social media strategy from scheduling posts to reporting on performance.</li>
+                <li>Contributing ideas to the team to grow the brand</li></ul>
+            </p>
+            <h3>Educational Qualifications</h3>
+
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Fundamentals of digital marketing</span> – Google Garage</li>
+                <li>
+                <span id="course-name">Google Analytics for Beginners</span> - Google Analytics Academy</li>
+                <li>
+                <span id="course-name">Advanced Google Analytics </span> - Google Analytics Academy</li>
+               
+            </ul>
+            <h3>Technical Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Adobe Suite:</span> Photoshop, Illustrator, Premiere Pro, InDesign, After Effects.</li>
+
+                </ul>
+    </body>
+</html>
