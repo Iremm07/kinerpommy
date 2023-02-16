@@ -3,6 +3,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<!-- This is a comment. Nav bar HTML below  --><div class="topnav">        <a class="active" href="#home">Home</a> <!-- Doesn’t really go anywhere- this is just dummy link--><!-- Below are just page anchors- links to places on this webpage for auto-scrolling  -->        <a href="#WebDesign">Web Design</a>        <a href="#GamesDevelopment">Games Development</a>        <a href="#AppplicationDevelopment">Application Development</a></div>
 <div id="header">
 <p id="name"><b>Irem Khan</p></b>
          <a href="mailto:iremkhan07@gmail.com" target="_blank"><p id="email">iremkhan07@gmail.com</p></a>
